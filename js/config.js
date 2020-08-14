@@ -58,6 +58,7 @@ var l_bgImages = [
         "image3.jpg",
         "image4.jpg",
         "image5.jpg",
+        "image6.jpg",
 ];
 
 /*Random background images order?*/
@@ -93,7 +94,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
 	{youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
-        {youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
+        {youtube: "frXfsAORYu0", name: "Nations - Installation Music"},
 ];
 
 /*Random music order?*/
