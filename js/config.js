@@ -91,9 +91,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "hvGfMQdzU3c", name: "Nations - Installation Music"},
-	{youtube: "rHoBhhPy13k", name: "Nations - Installation Music"},
-        {youtube: "AdWyL0219WM", name: "Nations - Installation Music"},
+	{youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
+	{youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
+        {youtube: "4e7sICeSDBQ", name: "Nations - Installation Music"},
 ];
 
 /*Random music order?*/
@@ -109,7 +109,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Do not no-clip without being cloaked. It is annoying to see non-cloaked admins flying around the server and getting in the way, so just cloak yourself! It also breaks roleplay!",
-	"RP Scamming/stealing is not allowed whatsoever. Blind Auctions are also not allowed!",
+	"Do not use this server to advertise other Discord servers or self-promote!",
 	"If you have a hit on the mayor and there are cops blocking him they are KOS and not RDM 25 Invis and no collided cars are not Allowed!",
         "Disconnect, suicide, change jobs, Change names, Etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
@@ -122,7 +122,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the restaurant!",
         "Do not harass other users. - Do not follow around other users and annoy them after they told you repeatedly do, do not spam their PMs also.!",
         "Don't micspam - Jobs that are allowed to perform may play music through there mic just not excessivley!",
-        "Animatronics cannot exit the restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
+        "It's perfectly okay to offer constructive criticism for the game, but rude behavior and personal attacks will not be tolerated. If you are obviously only here to talk trash and start drama (or if you just have a nasty attitude / obnoxious personality in general) you will be removed from the server!",
         "Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation!",
         "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
         "Do not demote while the staff is online. If a staff member is online, report the rule-breaker like you normally would!",
@@ -143,7 +143,7 @@ var l_messages = [
         "Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people or Trolling!",
         "Fear RP is in effect - Respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "If you threaten A DDoS attack on this server - This will result in a direct Permanant ban, jokeing or Not!",
-        "RP building signs must only be used for bases that do not contain money making entities/weapons this excludes bank and PD!",
+        "If you insist on arguing about the age of the characters, you will be banned!",
         "No trap bases (like kill holes, drops where players can't escape), black bases (Black boxes, where someone's perception to the next entrance is hindered) or Maze bases!",
         "NLR any objections? (You may not demote players while staff are online, this does not apply to roleplay demotions Eg: Mayor demoting police officer for corruption!"
 
